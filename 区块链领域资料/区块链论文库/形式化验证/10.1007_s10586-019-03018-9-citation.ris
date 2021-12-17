@@ -1,0 +1,19 @@
+TY  - JOUR
+AU  - Souri, Alireza
+AU  - Rahmani, Amir Masoud
+AU  - Navimipour, Nima Jafari
+AU  - Rezaei, Reza
+PY  - 2020
+DA  - 2020/12/01
+TI  - A hybrid formal verification approach for QoS-aware multi-cloud service composition
+JO  - Cluster Computing
+SP  - 2453
+EP  - 2470
+VL  - 23
+IS  - 4
+AB  - Today, cloud providers represent their individual services with several functional and non-functional properties in various environments. Discovering and selecting an appropriate atomic service from a pool of activated services are a main challenge in the multi-cloud service composition. Minimizing the number of cloud providers is a critical matter in the service composition problem, which effects on energy consumption, response time and total cost. This paper presents a hybrid formal verification approach to assess the service composition in multi-cloud environments though the decreasing number of cloud providers to gain final service composition with a high level of Quality of Service (QoS). The presented approach provides behavioral modeling to examine the procedure of user’ requests, service selection, and composition in a multi-cloud environment. Also, the proposed approach permits analysis of the service composition using a Multi-Labeled Transition Systems (MLTS)-based model checking and Pi-Calculus-based process algebra methods for monitoring the functional specifications and non-functional properties as the QoS standards. In addition, the proposed approach satisfies the functional properties for the multi-cloud service composition. The experimental results proved the feasibility of the proposed approach with performance evaluations and some confirmation setups.
+SN  - 1573-7543
+UR  - https://doi.org/10.1007/s10586-019-03018-9
+DO  - 10.1007/s10586-019-03018-9
+ID  - Souri2020
+ER  - 
