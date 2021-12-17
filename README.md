@@ -41,7 +41,13 @@
 
 
 
+### 管理员权限添加流程
 
+![image-20211217151513410](https://gitee.com/ICDM_ws/pic-bed/raw/master/all/202112171515528.png)
+
+
+
+![image-20211217151559197](https://gitee.com/ICDM_ws/pic-bed/raw/master/all/202112171515253.png)
 
 ### 仓库未来愿景
 
@@ -50,8 +56,6 @@
 :jack_o_lantern:愿所有进入ICDM实验室的同学能更迅速的了解到自己未来要做的事情
 
 :candy:愿所有进入ICDM实验室的同学能更好的实现自己的人生目标
-
-
 
 
 
