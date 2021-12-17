@@ -1,0 +1,33 @@
+### 解题思路
+
+着实没有想到双指针，之前都是过滤再做。
+
+### 代码
+
+* golang
+
+```golang
+func isPalindrome(s string) bool {
+    n := len(s)
+    l, r := 0, n-1
+    for l < r {
+        for l < r && !check(s[r]){r--}
+        for l < r && !check(s[l]){l++}
+        // fmt.Println(unicode.ToLower(rune(s[l])), " ", )
+        if unicode.ToLower(rune(s[l])) != unicode.ToLower(rune(s[r])) {
+            return false 
+        } 
+        l++; r--
+    }
+    return true
+}
+func check(v byte) bool {
+    if unicode.IsLetter(rune(v)) || unicode.IsDigit(rune(v)) {
+        return true
+    }
+    return false
+}
+```
+
+时间复杂度 $O(n)$
+空间复杂度 $O(1)$
