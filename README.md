@@ -23,6 +23,8 @@
 
 :two_hearts:**强烈推荐大家将资料进行好分类在上传到此仓库中,为了未来的方便查阅!!**
 
+:two_hearts:强烈建议学会`git`命令,其次可以选择github的`Desktop`桌面版本来实现更加方便的操作!!!  [点我直达](#https://desktop.github.com/)
+
 
 
 ### 内容增加协议
