@@ -29,7 +29,7 @@
 
 所有的上传的内容模块需要遵循下面给出的分级原则,任何地方都可经过大家同意进行更改!
 
-![未命名文件](https://gitee.com/ICDM_ws/pic-bed/raw/master/all/202112171432331.png)
+![下载](assert/下载.png)
 
 
 
@@ -43,11 +43,13 @@
 
 ### 管理员权限添加流程
 
-![image-20211217151513410](https://gitee.com/ICDM_ws/pic-bed/raw/master/all/202112171515528.png)
+图片使用图床功能,github可能显示不全 ,可以下载到本地查阅!
+
+![下载](assert/202112171515528.png)
 
 
 
-![image-20211217151559197](https://gitee.com/ICDM_ws/pic-bed/raw/master/all/202112171515253.png)
+![image-20211217151559197](assert/1.png)
 
 ### 仓库未来愿景
 
@@ -56,6 +58,3 @@
 :jack_o_lantern:愿所有进入ICDM实验室的同学能更迅速的了解到自己未来要做的事情
 
 :candy:愿所有进入ICDM实验室的同学能更好的实现自己的人生目标
-
-
-
