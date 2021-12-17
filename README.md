@@ -59,7 +59,7 @@
 
 将用户添加到组织管理员级别,目的在于可以多开几个仓库.
 
-![image-20211217205407570](https://gitee.com/ICDM_ws/pic-bed/raw/master/all/202112172054658.png)
+![image-20211217205407570](assert/2.png)
 
 ### 仓库未来愿景
 
