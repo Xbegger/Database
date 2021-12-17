@@ -35,9 +35,9 @@
 
 ### 国内加速克隆办法
 
-原地址:`https://github.com/TheKingShun/ICDM_Database.git`
+原地址:`https://github.com/xxxx/xxxxxx.git`
 
-加速地址:`https://github.com.cnpmjs.org/TheKingShun/ICDM_Database.git`
+加速地址:`https://github.com.cnpmjs.org/xxxxx/xxxxxxx.git`
 
 
 
